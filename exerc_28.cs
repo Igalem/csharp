@@ -1,3 +1,5 @@
+// Encrypt word of characters by previous and next index char
+
 using System;
 
 public class Test {

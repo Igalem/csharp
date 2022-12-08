@@ -1,3 +1,5 @@
+// Method of "print" the same as in Python instead using "Console.WriteLine" function
+
 using System;
 class Program  
     {  
