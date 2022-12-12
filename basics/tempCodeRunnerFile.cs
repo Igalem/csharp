@@ -1,0 +1,2 @@
+
+        public int length, width;
